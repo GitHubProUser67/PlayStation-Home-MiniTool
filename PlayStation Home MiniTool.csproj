@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>PlayStation_Home_MiniTool</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Platforms>AnyCPU;x64</Platforms>
+    <ApplicationIcon>HomeTools.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="HomeTools.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Home.BAR">
+      <HintPath>HDKBIN\Home.BAR.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>HDKBIN\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="zlib.net">
+      <HintPath>HDKBIN\zlib.net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

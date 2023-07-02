@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<object xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" uuid="PUT_UUID_HERE" xmlns="http://home.scedev.net/schema/objectcatalogue">
+	<PUT_OBJECTTYPE_HERE>PUT_OBJECTDESCRIPTOR_HERE</PUT_OBJECTTYPE_HERE>
+	<rigs>PUT_RIGUUID_HERE</rigs>
+    <tags lang="en-GB">PUT_OBJECTNAME_HERE</tags>
+</object>

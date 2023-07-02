@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<odc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" hdk_version="OBJECT_HDK_VERSION" version="1.0">
+  <version>1.0</version>
+  <uuid>PUT_UUID_HERE</uuid>
+  <name lang="en-GB" default="true">PUT_NAME_HERE</name>
+  <name lang="fr-FR" default="false">PUT_NAME_HERE</name>
+  <name lang="de-DE" default="false">PUT_NAME_HERE</name>
+  <name lang="it-IT" default="false">PUT_NAME_HERE</name>
+  <name lang="es-ES" default="false">PUT_NAME_HERE</name>
+  <name lang="ja-JP" default="false">PUT_NAME_HERE</name>
+  <name lang="ko-KR" default="false">PUT_NAME_HERE</name>
+  <name lang="zh-HK" default="false">PUT_NAME_HERE</name>
+  <name lang="zh-TW" default="false">PUT_NAME_HERE</name>
+  <description lang="en-GB" default="true">PUT_DESCRIPTION_HERE</description>
+  <description lang="fr-FR" default="false">PUT_DESCRIPTION_HERE</description>
+  <description lang="de-DE" default="false">PUT_DESCRIPTION_HERE</description>
+  <description lang="it-IT" default="false">PUT_DESCRIPTION_HERE</description>
+  <description lang="es-ES" default="false">PUT_DESCRIPTION_HERE</description>
+  <description lang="ja-JP" default="false">PUT_DESCRIPTION_HERE</description>
+  <description lang="ko-KR" default="false">PUT_DESCRIPTION_HERE</description>
+  <description lang="zh-HK" default="false">PUT_DESCRIPTION_HERE</description>
+  <description lang="zh-TW" default="false">PUT_DESCRIPTION_HERE</description>
+  <maker lang="en-GB" default="true">PUT_COMPANY_HERE</maker>
+  <maker_image lang="en-GB" default="true">[THUMBNAIL_ROOT]MAKER.PNG</maker_image>
+  <small_image lang="en-GB" default="true">[THUMBNAIL_ROOT]SMALL.PNG</small_image>
+  <large_image lang="en-GB" default="true">[THUMBNAIL_ROOT]LARGE.PNG</large_image>
+  <entitlements />
+  <legal>
+    <age_rating minimum_age="0" parental_control_level="1" />
+    <age_rating country="US" minimum_age="0" parental_control_level="1" />
+    <age_rating country="JP" minimum_age="0" parental_control_level="1" />
+    <age_rating country="KR" minimum_age="0" parental_control_level="1" />
+    <age_rating country="SG" minimum_age="0" parental_control_level="1" />
+    <age_rating country="CA" minimum_age="0" parental_control_level="1" />
+  </legal>
+  <heat />
+</odc>

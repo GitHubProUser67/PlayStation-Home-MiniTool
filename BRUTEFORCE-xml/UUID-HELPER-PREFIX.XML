@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?> <XML>
+<asset source="object.xml"/>
+<asset source="resources.xml"/>
+<asset source="localisation.xml"/>
+</XML>
